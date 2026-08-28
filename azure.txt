@@ -1,0 +1,7 @@
+Azure Devops provides tools for software development and Devops
+Major components
+Boards
+Repos
+Pipelines
+Test Plans
+Artifacts
